@@ -3,7 +3,7 @@ manufacturer:
     - general
 ---
 
-### Android 6+
+### Android 6 fuck+
 
 Always check the following setting:
 
